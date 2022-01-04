@@ -224,7 +224,7 @@ Yes, many themes are using this plugin, for an example, you can look on [CosmosW
 
 == Changelog ==
 
-= 1.3.4 - 2022-12-27 =
+= 1.3.4 - 2022-01-04 =
 * Added :  [Elementor global site settings](https://wordpress.org/support/topic/plugin-update-to-process-elementor-global-site-settings/)
 
 = 1.3.3 - 2021-06-15 =
